@@ -8,10 +8,10 @@
 ![photo_2022-08-31_23-00-08](https://user-images.githubusercontent.com/84299287/187771861-8acea823-8cfd-4fda-929a-115151f5cf3f.jpg)
 
 # You will need a session ID :
-   1 - Go to Tiktok Web
-   2 - Login To Your Account
-   3 - Click F12 , than Application , then Cookies 
-   4 - Copy the session ID then you can use it in the tool ❤
+   - Go to Tiktok Web
+   - Login To Your Account
+   - Click F12 , than Application , then Cookies
+   - Copy the session ID then you can use it in the tool ❤
    
 
 ### Donations ❤
