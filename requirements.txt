@@ -1,0 +1,5 @@
+random
+colorama
+threading
+user_agent
+requests
