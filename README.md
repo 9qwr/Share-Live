@@ -12,6 +12,10 @@
    - Login To Your Account
    - Click F12 , than Application , then Cookies
    - Copy the session ID then you can use it in the tool ❤
+
+### Usage :
+   - pip install -r requirements.txt
+   - Run Share-Live.py
    
 
 ### Donations ❤
