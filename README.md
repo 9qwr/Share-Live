@@ -14,8 +14,10 @@
    - Copy the session ID then you can use it in the tool ❤
 
 ### Usage :
-   - pip install -r requirements.txt
-   - Run Share-Live.py
+   ```
+   [+] pip install -r requirements.txt
+   [+] Run Share-Live.py
+   ```
    
 
 ### Donations ❤
