@@ -1,7 +1,7 @@
 # Share-Live ❤
 
 - A tool that allows you to watch broadcasts on Tik Tok! ..
-- If the tool no longer works after running it for the first time, use a VPN 
+- If the tool no longer works after running it for the first time 
 
 ## image 
 
@@ -24,6 +24,4 @@
 - [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://www.up-00.com/i/00230/f3redhkz0pf8.jpg)
 
 # Contact ❤
-- [Telegram](https://t.me/ik48x)
-- [Instagram](https://www.instagram.com/j4s_8/)
-- [Snapchat](https://www.snapchat.com/add/j4s_8)
+- [Telegram](https://t.me/xfff00.t.me)
