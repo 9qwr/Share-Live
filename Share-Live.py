@@ -56,7 +56,7 @@ class SHARES():
             "User-Agent": generate_user_agent(),
         }
         try:
-            url = f"https://www.tiktok.com/api-live/user/room/?aid=1988&uniqueId={self.usersa}"
+            url = f"https://www.tiktok.com/api-live/user/room/?aid=1988&app_language=ar&app_name=tiktok_web&browser_language=ar&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Windows%29&channel=tiktok_web&cookie_enabled=true&device_id=7129559580162868738&device_platform=web_pc&focus_state=true&from_page=user&history_len=7&is_fullscreen=false&is_page_visible=true&os=windows&priority_region=SA&referer=https%3A%2F%2Fwww.tiktok.com%2Fforyou%3Flang%3Dar&region=US&root_referer=https%3A%2F%2Fwww.tiktok.com%2F&screen_height=768&screen_width=1366&sourceType=54&tz_name=Asia%2FRiyadh&uniqueId={self.usersa}&verifyFp=verify_l71zqvs2_YCWVL2JM_1nvE_4oRk_8FnT_X2jkG5zAgQIK&webcast_language=ar"
             rez = requests.get(url, headers=headers).json()
             self.room = rez["data"]["user"]["roomId"]
             self.owner_id = rez["data"]["user"]["id"]
